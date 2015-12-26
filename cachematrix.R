@@ -1,6 +1,6 @@
 ## pair of functions that cache the inverse of a matrix.
 
-## The make cacheMatrix creates a matrix object that contains initial matrix,
+## The make cacheMatrix creates an object that contains initial matrix,
 ##and caches it's inverse matrix if it has already been calculated
 
 makeCacheMatrix <- function(x = matrix()) {
